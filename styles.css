@@ -1,0 +1,56 @@
+body, html {
+  height: auto;
+  width: auto;
+}
+
+body{
+background: url("images/sign-up-BG.jpg");
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+}
+
+h4{
+  color: white;
+  font-weight: bolder;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+
+label {
+  color: white;
+}
+
+input {
+  color: white;
+  size: 20;
+  font-weight: bolder;
+}
+
+form {
+  width: 39%;
+  height: auto;
+  float:right;
+  text-align:left;
+  margin: 60px 2rem;
+  clear: both;
+  padding: 60px 2rem 80px 2rem;
+  -webkit-box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+background: #16004B;
+border-radius: 10px;
+}
+
+.submit-btn{
+  background-color: : #DF643A;
+  color: white;
+}
+
+
+.row,.last {
+  padding: 0.5rem;
+}
