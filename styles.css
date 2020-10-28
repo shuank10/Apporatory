@@ -43,6 +43,7 @@ form {
   box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
 background: #16004B;
 border-radius: 10px;
+font-size: 16px;
 }
 
 .submit-btn{
